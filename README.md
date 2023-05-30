@@ -3,3 +3,4 @@ A decompilation of the Nintendo DS version of _Nicktoons: Battle for Volcano Isl
 
 Currently supported:
 * Nicktoons - Battle for Volcano Island (USA).nds (NTR-AVKE-USA)
+* SpongeBob SquarePants - SpongeBob to Nakama-tachi (Japan).nds (NTR-AVKJ-JPN)
